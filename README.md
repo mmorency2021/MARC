@@ -72,22 +72,7 @@ telco-hub/
 - [Telco Reference Architecture Guide](https://github.com/openshift-kni/telco-reference)
 - [Red Hat OpenShift Documentation](https://docs.openshift.com/)
 
-### Validated Software Components
 
-The telco hub solution has been validated with the following Red Hat software components:
-
-| Component | Version |
-|-----------|---------|
-| OpenShift Container Platform | 4.18 |
-| Local Storage Operator | 4.18 |
-| Red Hat OpenShift Data Foundation (ODF) | 4.18 |
-| Red Hat Advanced Cluster Management (RHACM) | 2.13 |
-| Red Hat OpenShift GitOps | 1.15 |
-| GitOps Zero Touch Provisioning (ZTP) plugins | 4.18 |
-| multicluster engine Operator PolicyGenerator plugin | 2.12 |
-| Topology Aware Lifecycle Manager (TALM) | 4.18 |
-| Cluster Logging Operator | 6.2 |
-| OpenShift API for Data Protection (OADP) | Aligned with RHACM release |
 
 ### Community and Support
 - **GitHub Issues**: [telco-reference issues](https://github.com/openshift-kni/telco-reference/issues)
